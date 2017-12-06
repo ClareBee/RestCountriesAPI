@@ -1,0 +1,66 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+  background-image: url('https://www.europeancitiesmarketing.com/wp-assets/uploads/2015/10/TOURISM-MAY-LEAD-SUSTAINABLE-ECONOMIC-GROWTH-PATH-1024x603.jpg');
+  background-position: center;
+  background-size: cover;
+  back
+}
+
+#main-map {
+  height: 300px;
+  width: 300px;
+  border: 10px solid #4B4A67;
+  margin: 25px;
+  border-radius: 8px;
+}
+html {
+    border: 20px solid #8AA2A9;
+}
+
+#globe {
+  width: 150px;
+  height: 100px;
+  opacity: 0.7;
+}
+
+h1 {
+  font-size: 70px;
+  color: #34393F;
+  padding: 20px 40px 20px 40px;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+ul {
+  padding-top: 50px;
+  padding-bottom: 250px;
+  background-color: #B8D3CA;
+  border-radius: 15px;
+  margin-top: 10px;
+  width: 90%;
+  list-style: none;
+  font-size: 22px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+li {
+  line-height: 35px;
+}
+
+#countries-list {
+  font-size: 45px;
+  margin-bottom: 30px;
+  background-color: #4B4A67;
+  color: white;
+  padding: 25px;
+}
+
+.label {
+  font-weight: bold;
+  font-size: 25px;
+  color: #4B4A67;
+}
